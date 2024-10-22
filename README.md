@@ -1,6 +1,6 @@
 # Open Source News Crawlers - A Comparative Review
 
-This document provides an overview and detailed comparison of several open-source news crawlers, each offering unique functionalities for news scraping, extraction, and analysis.
+This document provides an overview and detailed comparison of several open-source news crawlers, each offering unique functionalities for news scraping, extraction, and analysis. If you don't want to deal with coding a news crawler or use a news crawler, I created a comparison between [top free news APIs](https://github.com/free-news-api/news-api) that already provide access to news data, among them are [Webz.io News API Lite](https://webz.io/products/news-api#lite) and [NewsAPI.org](https://newsapi.org/).
 
 ## Overview
 
